@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZamanınıKaybetme", "ZamanınıKaybetme\ZamanınıKaybetme.csproj", "{FC7CE2AE-12B3-4EDD-AAA9-1C9C25AEF1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC7CE2AE-12B3-4EDD-AAA9-1C9C25AEF1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7CE2AE-12B3-4EDD-AAA9-1C9C25AEF1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7CE2AE-12B3-4EDD-AAA9-1C9C25AEF1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7CE2AE-12B3-4EDD-AAA9-1C9C25AEF1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC24A09D-21FD-4AAE-8232-C2E661CFB412}
+	EndGlobalSection
+EndGlobal

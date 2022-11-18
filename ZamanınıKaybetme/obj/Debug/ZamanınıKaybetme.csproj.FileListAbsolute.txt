@@ -1,0 +1,11 @@
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\bin\Debug\ZamanınıKaybetme.exe.config
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\bin\Debug\ZamanınıKaybetme.exe
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\bin\Debug\ZamanınıKaybetme.pdb
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.csproj.AssemblyReference.cache
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.csproj.SuggestedBindingRedirects.cache
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.Form1.resources
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.Properties.Resources.resources
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.csproj.GenerateResource.cache
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.csproj.CoreCompileInputs.cache
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.exe
+D:\Genel\repos\ZamanınıKaybetme\ZamanınıKaybetme\obj\Debug\ZamanınıKaybetme.pdb
